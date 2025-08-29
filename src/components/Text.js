@@ -20,7 +20,7 @@ export default function Text() {
                             repeat={Infinity}
                         /></h2>
                 </div>
-                <p className='side2-animate'>Passionate frontend developer and BTech 1st-year student, eager to craft visually stunning and user-friendly web experiences. Exploring HTML, CSS, JavaScript, and modern frameworks to build interactive and responsive designs. Constantly learning and growing in the world of web development!"</p>
+                <p className='side2-animate'>Passionate frontend developer and BTech 2nd-year student, eager to craft visually stunning and user-friendly web experiences. Exploring HTML, CSS, JavaScript, and modern frameworks to build interactive and responsive designs. Constantly learning and growing in the world of web development!"</p>
                 <div className="contact-links">
                     <a className="links" style={{'--i' : 6}} href='https://www.facebook.com/profile.php?id=100089469668800'  target="_blank" rel='noreferrer'><i className='bx bxl-facebook' style={{color:'#06dee9'}}  ></i></a>
                     <a className="links" style={{'--i' : 7}} href='https://github.com/sakshamengineer/'  target="_blank" rel='noreferrer'><i className='bx bxl-github' style={{color:'#06dee9'}}  ></i></a>
